@@ -1,0 +1,11 @@
+No.,QA,D1,D2,C4,C6,Answer,Description
+1,Which of these selection statements test only for equality?,if,switch,if and switch,None of the mentioned,B,switch
+2,Which of these are selection statements in Java?,if(),for(),continue,break,A,if()
+3,Which of the following loops will execute the body of loop even when condition controlling the loop is initially false?,do-while,while,for,None of the mentioned,A,do-while
+4,Which of these jump statements can skip processing remainder of code in its body for a particular iteration?,switch statement is more efficient than a set of nested ifs,two case constants in the same switch can have identical values.,switch statement can only test for equality whereas if statement can evaluate any type of boolean expression.,it is possible to create a nested switch statements.,B,two case constants in the same switch can have identical values
+5,Which of the following is used with the switch statement?,Continue,Exit,break ,do,C,break
+6,Which of the following is not a valid jump statement?,break,goto,continue,return,B,goto
+7,Which of the following is not a valid flow control statement?,exit(),break,continue,return,A,exit()
+8,From where break statement causes an exit?,Only for the innermost loop,Terminates a program,Only from innermost switch,From innermost loops or switches,D,From innermost loops or switches
+9,Which of the following is not a decision making statement?,if,if-else,switch,do-while,D,do-while
+10,What is true about do statement?,do statement executes the code of a loop at least once,do statement does not execute if condition is not matched in the first iteration,do statement checks the condition at the beginning of the loop,do statement executes the code more than once always,A,do statement executes the code of a loop at least once

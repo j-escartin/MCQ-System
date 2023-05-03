@@ -1,0 +1,11 @@
+No.,QA,D1,D2,C4,C6,Answer,Description
+1,Number of primitive data types in Java?,6,7,8,9,C,8
+2,What is the size float and double in java?,32 and 64,32 and 32,64 and 32,64 and 64,A,32 and 64
+3,Automatic type conversion is possible in which of the possible cases?,Byte to Int,Int to Long,Long to Int,Short to Int,B,Int to Long
+4,compareTo() returns,TRUE,FALSE,An int value,None,C,An int value
+5,Select a valid statement.,char[] ch = new char (5),char [] ch = new char[5],char[] ch =new char(),char[] ch = new char[],B,char [] ch = new char[5]
+6,When an array is passed to a method what does the method receive?,The reference of the array,A copy of the array,Length of the array,Copy of the first element,A,The reference of the array
+7,Arrays in Java are?,Objects Reference,Objects,Primitive data type,None,B,Objects
+8,When is the object is created with new keyword,At run time,At compile time,Depends on the code,None,A,At run time
+9,Identify the correct defination of package,A package is collection of editing tools,A package is a collection of classes,A package is a collection of classes and interfaces,A package is a collection of interfaces,C,A package is a collection of classes and interfaces
+10,Identify the keyword among the following that makes a variable belong to a class rather than being defined for each instance of the class,final,static,volatile,abstract, B,static
