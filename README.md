@@ -2,13 +2,6 @@
 
 A Project on OOP Principle, Data Structure and Algorithm
 
-## Project Overview
-
-Java programming has taken the limelight of the evolving technology. It became a sole player of most automation and artificial intelligence that humanities have reached. Due to its reliability, usability, cross-platform compatibility, and security features, Java has emerged as a top language for developing global Internet solutions (IBM, 2022).
-
-The project is all about creating a MCQ System through java programming. The project will read a csv file as source of data about the questions and its choices. The project also enables to explore different aspects of java. See the following:
-
-
 ## Experience from the Project
 
 - Able to design a command line application using Java.
@@ -20,13 +13,23 @@ The project is all about creating a MCQ System through java programming. The pro
 
 ## Tools and Platforms
 
-- Laptop (at least 8GB RAM and i5 processor)
 - Java Integrated Development (IntelliJ)
 - Microsoft Excel for csv file conversion
 - Diagramming tool (draw.io)
 
-
 ## Result
+
+### Testing
+
+![Picture1](https://github.com/j-escartin/MCQ-System/assets/109270420/8f9ef024-9367-4aef-98d9-4869f4337e0b)
+
+### Creating New Class
+
+![Picture2](https://github.com/j-escartin/MCQ-System/assets/109270420/e41c3e46-f384-4a7e-833c-0a0e463d60ec)
+
+### Running to the Console
+
+![Picture3](https://github.com/j-escartin/MCQ-System/assets/109270420/5ba0a174-d2c5-4736-aa9e-f10ed8f6e572)
 
 
 
